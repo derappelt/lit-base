@@ -1,0 +1,14 @@
+{
+  "name": "yah-tzee",
+  "version": "1.0.0",
+  "description": "Yahtzee PWA",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Appelt <aipt32@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lit-html": "^0.7.1"
+  }
+}
